@@ -1,1 +1,0 @@
-firts use ip range generator to genearte laravel ip
